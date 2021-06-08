@@ -1482,6 +1482,11 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
+"@types/cesium@^1.67.10":
+  version "1.67.13"
+  resolved "https://registry.yarnpkg.com/@types/cesium/-/cesium-1.67.13.tgz#33f14d893257ab7fdf549cd36ae33a1421954b34"
+  integrity sha512-sEK09IOC64zN9DKSmme8QD2mklWlvivpKvilZDsXwscb01vHqUZTRtZL6gQAVNMqApgRgyX4Yu/9KYbEtHQl6w==
+
 "@types/color-name@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
@@ -2766,6 +2771,11 @@ caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
+
+cesium@^1.70.1:
+  version "1.82.1"
+  resolved "https://registry.yarnpkg.com/cesium/-/cesium-1.82.1.tgz#ca231d4dee8bc02126dfbd57e9474b7bd65d8f40"
+  integrity sha512-BpyQ3KF6ZPPicW5L3khPJA0fKWL1ViA5cV1hFa/8zWiJ/1ix3+kyzrvaAlUdy/knn9xY70ePnNYwokIs+d2znw==
 
 chalk@2.4.2, chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.4.1, chalk@^2.4.2:
   version "2.4.2"
@@ -6630,9 +6640,9 @@ memory-fs@^0.5.0:
     readable-stream "^2.0.1"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
-  integrity sha512-T7qC8kg4Zoti1cFd8Cr0M+qaZfOwjlPDEdZIIPPB2JZctjaPM4fX+i7HOId69tAti2fvO6X5ldfYUONDODsrkA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
+  integrity sha512-qtmzAS6t6grwEkNrunqTBdn0qKwFgNWvlxUbAV8es9M7Ot1EbyApytCnvE0jALPa46ZpKDUo527kKiaWplmlFA==
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"
